@@ -1,0 +1,27 @@
+# Restake ETH — Restaking Staked ETH & LSTs Reference
+
+> Use ETH that is already staked — native staked ETH or a liquid staking token (LST) receipt — to help secure additional services (AVSs) on top of Ethereum for extra rewards. Builds on Ethereum staking, non-custodial, with compounded slashing risk. Independent, not affiliated with any restaking protocol.
+
+## Key Facts
+- Restaking: opting already-staked ETH (native staked ETH or an stETH-style LST) in to secure extra services on top of Ethereum
+- Builds ON TOP of Ethereum staking — understand ordinary ETH staking first
+- AVSs (Actively Validated Services) / modules: the extra services restakers, or the operators they delegate to, help secure
+- Rewards: paid as tokens or as points; points are NOT guaranteed to convert to tokens; no specific APR/points value promised
+- Custody: non-custodial — your wallet signs; restaking runs through public smart contracts; you delegate to an operator
+- Risks: compounded/additional slashing on top of Ethereum's own, AVS/operator risk, smart-contract risk, illiquidity and withdrawal delays, points-not-guaranteed risk
+- Independent resource — NOT affiliated with or endorsed by any restaking protocol
+
+## Internal Sections & App Navigation
+- [What is ETH restaking?](#what)
+- [How restaking works](#how)
+- [Native restaking vs restaking LSTs](#native-vs-lst)
+- [AVSs & operators](#avs)
+- [Extra rewards & points](#rewards)
+- [Withdrawals & delays](#withdrawals)
+- [Risks](#risks)
+- [FAQ](#faq)
+- [Notes before you restake](#notes)
+- [Open Restake ETH App](dashboard/index.html)
+
+## Disclaimer
+Independent page. Not affiliated with or endorsed by any restaking protocol. Not financial advice.
